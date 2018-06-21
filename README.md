@@ -1,5 +1,5 @@
 # bioSA
-Multi-Resolution Sensitivity Analysis of Model of Immune Response to Helicobacter Pylori Infection Using Spatio-Temporal Metamodeling
+Multi-Resolution Sensitivity Analysis of Model of Immune Response to Helicobacter pylori Infection via Spatio-Temporal Metamodeling
 
 A summary of files uploaded:
 
