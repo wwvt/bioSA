@@ -19,7 +19,7 @@ library(R.matlab)
 #-----------------------------------------------------------------------------------------------
 rm(list=ls());
 
- data = read.csv("Th17_GLN.csv",header=FALSE);
+ data = read.csv("M0_LP.csv",header=FALSE);
 # Xpred = read.csv("Pred_points.csv",header=FALSE);
 X = data[, 1:25];
 #---------------Get the specific values for each design configuration---------------
@@ -133,4 +133,4 @@ Xt_full = cbind(X_full, t_full);
 skriging_model_est = mlegp(Xt_full,log_y_mean,nugget = 1, nugget.known = 0);
 
 
-save.image('Th17_GLN_norm_log_3T_compare.Rdata')  # save the fitted SK metamodel for one output type, remember to rename it for different outputs differently
+save.image('M0_LP_norm_log_3T_compare.Rdata')  # save the fitted SK metamodel for one output type, remember to rename it for different outputs differently
