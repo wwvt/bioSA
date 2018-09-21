@@ -1,9 +1,9 @@
 # bioSA
 
-#Introduction
+# Introduction
 The files provided here are for the paper "Multi-Resolution Sensitivity Analysis of Model of Immune Response to Helicobacter pylori Infection via Spatio-Temporal Metamodeling".
 
-#A summary of files:
+# A summary of files:
 
 - The R code for metamodel building for the 1st stage (3T) -  25D_log_Dose_norm_3T_main.R
 - The R code for metamodel building for the 2nd stage (T2S10) - 25D_log_Dose_norm_T2S10_main.R 
