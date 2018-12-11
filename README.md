@@ -22,3 +22,4 @@ The files provided here are for the paper "Multi-Resolution Sensitivity Analysis
 # Other supporting files for fitting the metamodel and Monte Carlo simulation
 
 # Other supporting files for the generation of heatmaps
+- Heatmaps for all parameters: M0_LP_sgn_5.png, M1_LP_sgn_5.png, M2_LP_sgn_5.png, Th17_LP_sgn_5.png, Th17_GLN_sgn_5.png
